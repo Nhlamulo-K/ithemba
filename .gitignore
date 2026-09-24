@@ -40,3 +40,8 @@ data/raw/*
 Thumbs.db
 .vscode/
 .idea/
+
+# Python packages installed inside backend (not part of the project)
+backend/Lib/
+backend/Scripts/
+backend/Include/
