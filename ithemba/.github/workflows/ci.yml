@@ -1,0 +1,29 @@
+name: CI
+on: [push, pull_request]
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          pip install cfn-lint -r backend/requirements-dev.txt
+
+      - name: Lint CloudFormation
+        run: cfn-lint infra/cloudformation/*.yaml
+
+      - name: Lint shell scripts
+        run: shellcheck scripts/*.sh
+
+      - name: Python tests
+        working-directory: backend
+        run: pytest
+
+      - name: Build ETL image
+        run: docker build -t ithemba-etl etl/

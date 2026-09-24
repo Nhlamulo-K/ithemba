@@ -1,0 +1,42 @@
+# Secrets and local config - NEVER commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials
+.aws/
+
+# Terraform (if you ever use it)
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!*.tfvars.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Build and packaging output
+build/
+dist/
+*.zip
+node_modules/
+
+# Local data and emulator state
+volume/
+localstack-data/
+data/raw/*
+!data/raw/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,25 @@
+# Run from the repo root:  docker compose -f local/docker-compose.yml --env-file .env up -d postgres
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-ithemba}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?set POSTGRES_PASSWORD in .env}
+      POSTGRES_DB: ${POSTGRES_DB:-ithemba}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  # Optional: AWS emulator. Requires a free LocalStack account + auth token in .env.
+  # Start with:  docker compose -f local/docker-compose.yml --env-file .env --profile localstack up -d
+  localstack:
+    image: localstack/localstack
+    profiles: ["localstack"]
+    ports:
+      - "4566:4566"
+    environment:
+      LOCALSTACK_AUTH_TOKEN: ${LOCALSTACK_AUTH_TOKEN:?set LOCALSTACK_AUTH_TOKEN in .env}
+
+volumes:
+  pgdata:

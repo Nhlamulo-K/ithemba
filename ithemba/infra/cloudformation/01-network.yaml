@@ -1,0 +1,4 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Ithemba - network (VPC, subnets, security groups, endpoints)
+Resources: {}
+# TODO: add resources. Avoid NAT Gateways (hourly cost); use free S3/DynamoDB gateway endpoints.

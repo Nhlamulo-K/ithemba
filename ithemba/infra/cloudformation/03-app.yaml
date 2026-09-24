@@ -1,0 +1,3 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: Ithemba - application (Lambda, API Gateway, CloudFront, EC2)
+Resources: {}
