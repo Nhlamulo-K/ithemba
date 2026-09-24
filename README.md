@@ -56,8 +56,6 @@
 - No personal data is collected or stored anywhere in the system.
 - Least-privilege IAM roles; secrets kept out of the repo.
 
-See [`docs/privacy-and-safety.md`](docs/privacy-and-safety.md) for more detail.
-
 ## Repository structure
 
 ```text
