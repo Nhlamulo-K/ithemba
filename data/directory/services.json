@@ -1,1 +1,57 @@
-[]
+[
+    {
+        "id": "gbv-command-centre",
+        "name": "GBV Command Centre",
+        "type": "helpline",
+        "province": "national",
+        "phone": "0800 428 428",
+        "hours": "24 hours",
+        "source_url": "https://sanews.gov.za/node/61236",
+        "last_verified": "2026-09-24"
+    },
+    {
+        "id": "stop-gender-violence-helpline",
+        "name": "Stop Gender Violence Helpline",
+        "type": "helpline",
+        "province": "national",
+        "phone": "0800 150 150",
+        "source_url": "https://sanews.gov.za/node/61236",
+        "last_verified": "2026-09-24"
+    },
+    {
+        "id": "saps-emergency-number",
+        "name": "SAPS Emergency Number",
+        "type": "helpline",
+        "province": "national",
+        "phone": "10111",
+        "source_url": "https://help.unhcr.org/southafrica/welcome/violence/",
+        "last_verified": "2026-09-24"
+    },
+    {
+        "id": "childline-south-africa",
+        "name": "Childline South Africa",
+        "type": "helpline",
+        "province": "national",
+        "phone": "0800 055 555",
+        "source_url": "https://help.unhcr.org/southafrica/welcome/violence/",
+        "last_verified": "2026-09-24"
+    },
+    {
+        "id": "national-shelter-movement-of-south-africa-helpline",
+        "name": "National Shelter Movement of South Africa Helpline",
+        "type": "helpline",
+        "province": "national",
+        "phone": "0800 001 005",
+        "source_url": "https://help.unhcr.org/southafrica/welcome/violence/",
+        "last_verified": "2026-09-24"
+    },
+    {
+        "id": "lifeline-national-counselling-line",
+        "name": "Lifeline National Counselling Line",
+        "type": "helpline",
+        "province": "national",
+        "phone": "0861 322 322",
+        "source_url": "https://help.unhcr.org/southafrica/welcome/violence/",
+        "last_verified": "2026-09-24"
+    }
+]
