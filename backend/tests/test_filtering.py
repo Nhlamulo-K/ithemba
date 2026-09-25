@@ -1,4 +1,4 @@
-from directory_api.filtering import filter_by_province
+from directory_api.filtering import filter_by_province, filter_by_type
 
 entries = [
     {
@@ -39,3 +39,13 @@ def test_province_with_no_entries_still_gets_national():
     entry = entries
     problems = filter_by_province(entry, "limpopo")
     assert [entry["id"] for entry in problems] == ["helpline"]
+
+def test_type_filter():
+    entry = entries
+    problem = filter_by_type(entry, "clinic")
+    assert [entry["id"] for entry in problem] == ["cape-clinic"]
+
+def test_type_filter_with_type_not_in_entry():
+    entry = entries
+    problem = filter_by_type(entry, "saps-emergency-number")
+    assert [entry["id"] for entry in problem] == []

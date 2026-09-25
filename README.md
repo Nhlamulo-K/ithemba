@@ -41,7 +41,7 @@
 | Linux and bash |
 | Networking |
 | Security |
-| Python programming |
+| Python programming | Backend |
 | Databases |
 | Tooling and automation |
 | Servers |

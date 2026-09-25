@@ -22,3 +22,18 @@ def test_handler_returns_everything_when_no_province_given():
     body = json.loads(response["body"])
     assert body["province"] == None
     assert len(body["services"]) == 6
+
+def test_handler_filters_by_type():
+    event = {"queryStringParameters": {"type": "clinic"}}
+    response = lambda_handler(event, None)
+    body = json.loads(response["body"])
+    for service in body["services"]:
+        assert service["type"] == "clinic"
+
+def test_handler_filters_by_provine_and_type():
+    event = {"queryStringParameters": {"province": "limpopo", "type": "clinic"}}
+    response = lambda_handler(event, None)
+    body = json.loads(response["body"])
+    for service in body["services"]:
+        assert service["province"] == "limpopo"
+        assert service["type"] == "clinic"
