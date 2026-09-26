@@ -37,3 +37,17 @@ def test_handler_filters_by_provine_and_type():
     for service in body["services"]:
         assert service["province"] == "limpopo"
         assert service["type"] == "clinic"
+
+def test_handler_rejects_unknown_province():
+    event = {"queryStringParameters": {"province": "joburg"}}
+    response = lambda_handler(event, None)
+    body = json.loads(response["body"])
+    assert response["statusCode"] == 400
+    assert "error" in body
+
+def test_handler_rejects_unknown_type():
+    event = {"queryStringParameters": {"type": "school"}}
+    response = lambda_handler(event, None)
+    body = json.loads(response["body"])
+    assert response["statusCode"] == 400
+    assert "error" in body
