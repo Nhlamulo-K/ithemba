@@ -45,3 +45,11 @@ Thumbs.db
 backend/Lib/
 backend/Scripts/
 backend/Include/
+
+# Python tool files that pip installed into the project root by mistake
+/Lib/
+/share/
+scripts/*.exe
+scripts/jsondiff
+scripts/jsonpatch
+scripts/jsonpointer

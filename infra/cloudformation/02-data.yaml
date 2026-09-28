@@ -1,3 +1,18 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Ithemba - data (DynamoDB, RDS, S3 buckets)
-Resources: {}
+Resources:
+  servicesTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: ithemba-services
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: province
+          AttributeType: S
+        - AttributeName: id
+          AttributeType: S
+      KeySchema:
+        - AttributeName: province
+          KeyType: HASH
+        - AttributeName: id
+          KeyType: RANGE
