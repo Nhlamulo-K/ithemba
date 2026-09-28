@@ -16,3 +16,11 @@ Resources:
           KeyType: HASH
         - AttributeName: id
           KeyType: RANGE
+  InsightsBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
