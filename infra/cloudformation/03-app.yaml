@@ -1,3 +1,17 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Ithemba - application (Lambda, API Gateway, CloudFront, EC2)
-Resources: {}
+Resources: 
+  DirectoryFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: ithemba-directory-api
+      Runtime: python3.13
+      Handler: handler.lambda_handler
+      Role: arn:aws:iam::ACCOUNT_ID:role/LabRole
+      Code:
+        ZipFile: |
+          def lambda_handler(event, context):
+              return {"statusCode": 200, "body": "placeholder"}
+      Environment:
+        Variables:
+          TABLE_NAME: !ImportValue ithemba-services-table-name

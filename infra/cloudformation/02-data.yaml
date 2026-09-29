@@ -1,7 +1,7 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Ithemba - data (DynamoDB, RDS, S3 buckets)
 Resources:
-  servicesTable:
+  ServicesTable:
     Type: AWS::DynamoDB::Table
     Properties:
       TableName: ithemba-services
@@ -27,4 +27,6 @@ Resources:
 Outputs:
   TableName:
     Description: Name of the DynamoDB table
-    Value: !Ref servicesTable
+    Value: !Ref ServicesTable
+    Export:
+      Name: ithemba-services-table-name
