@@ -7,7 +7,7 @@ Resources:
       FunctionName: ithemba-directory-api
       Runtime: python3.13
       Handler: handler.lambda_handler
-      Role: arn:aws:iam::ACCOUNT_ID:role/LabRole
+      Role: arn:aws:iam::022860393089:role/LabRole
       Code:
         ZipFile: |
           def lambda_handler(event, context):

@@ -1,4 +1,16 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Ithemba - network (VPC, subnets, security groups, endpoints)
-Resources: {}
-# TODO: add resources. Avoid NAT Gateways (hourly cost); use free S3/DynamoDB gateway endpoints.
+Resources: 
+  IthembaVPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.0.0.0/16
+      EnableDnsSupport: true
+      EnableDnsHostnames: true
+  PublicSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref IthembaVPC
+      CidrBlock: 10.0.1.0/24
+      AvailabilityZone: !Select [0, !GetAZs ""]
+      MapPublicIpOnLaunch: true
