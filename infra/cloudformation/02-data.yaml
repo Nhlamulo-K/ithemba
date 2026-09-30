@@ -30,3 +30,6 @@ Outputs:
     Value: !Ref ServicesTable
     Export:
       Name: ithemba-services-table-name
+  InsightsBucketName:
+    Description: Name of the S3 bucket for insights data
+    Value: !Ref InsightsBucket
