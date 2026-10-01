@@ -21,3 +21,55 @@ Resources:
     Properties:
       VpcId: !Ref IthembaVPC
       InternetGatewayId: !Ref IthembaInternetGateway
+  PublicRouteTable:
+    Type: AWS::EC2::RouteTable
+    Properties:
+      VpcId: !Ref IthembaVPC
+  PublicRoute:
+    Type: AWS::EC2::Route
+    Properties:
+      RouteTableId: !Ref PublicRouteTable
+      DestinationCidrBlock: 0.0.0.0/0
+      GatewayId: !Ref IthembaInternetGateway
+  PublicSubnetRouteAssociation:
+    Type: AWS::EC2::SubnetRouteTableAssociation
+    Properties:
+      SubnetId: !Ref PublicSubnet
+      RouteTableId: !Ref PublicRouteTable
+  PrivateSubnet:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref IthembaVPC
+      CidrBlock: 10.0.2.0/24
+      AvailabilityZone: !Select [0, !GetAZs ""]
+  Ec2SecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Allow SSH from a single trusted IP address
+      VpcId: !Ref IthembaVPC
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22
+          CidrIp: 197.184.74.69/32
+Outputs:
+  VpcId: 
+    Description: VPC ID of IthembaVPC
+    Value: !Ref IthembaVPC
+    Export:
+      Name: ithemba-vpc-id
+  PublicSubnetId:
+    Description: Public subnet ID
+    Value: !Ref PublicSubnet
+    Export:
+      Name: public-subnet-id
+  PrivateSubnetId:
+    Description: ID of private subnet
+    Value: !Ref PrivateSubnet
+    Export:
+      Name: private-subnet-id
+  Ec2SecurityGroupId:
+    Description: ID of security group
+    Value: !Ref Ec2SecurityGroup
+    Export:
+      Name: security-group-id
