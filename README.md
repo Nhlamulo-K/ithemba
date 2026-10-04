@@ -67,3 +67,7 @@ ithemba/
 ├── infra/             CloudFormation templates
 ├── scripts/           Bash scripts: deploy, teardown, validate, backup, harden
 ├── local/             docker-compose for local development
+```
+## Notes
+- CidrIp in `infra/cloudformation/01-network.yaml` under Ec2SecurityGroup is hardcoded and would need to be changed before deployment
+- arn link in Role in `infra/cloudformation/03-app.yaml` would need to be changed before deployment
