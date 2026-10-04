@@ -5,8 +5,12 @@ from directory_api.filtering import filter_by_province, filter_by_type
 from directory_api.validate import valid_provinces, valid_types
 
 def load_entries():
-    path = Path(__file__).parent.parent.parent / "data" / "directory" / "services.json"
-    return json.loads(path.read_text(encoding="utf-8"))
+    path = Path(__file__).parent / "services.json"
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    else:
+        path = Path(__file__).parent.parent.parent / "data" / "directory" / "services.json"
+        return json.loads(path.read_text(encoding="utf-8"))
 
 def lambda_handler(event, context):
     params = event.get("queryStringParameters") or {}
