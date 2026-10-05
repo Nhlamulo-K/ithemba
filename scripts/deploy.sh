@@ -9,3 +9,5 @@ cp backend/directory_api/handler.py build/lambda-package
 cp backend/directory_api/filtering.py build/lambda-package
 cp backend/directory_api/validate.py build/lambda-package
 cp data/directory/services.json build/lambda-package
+cd build/lambda-package
+zip -r ../lambda.zip .
