@@ -41,3 +41,8 @@ Outputs:
   InsightsBucketName:
     Description: Name of the S3 bucket for insights data
     Value: !Ref InsightsBucket
+  DeploymentBucketName:
+    Description: Name of the deployment bucket name
+    Value: !Ref DeploymentBucket
+    Export:
+      Name: ithemba-services-deployment-name

@@ -9,9 +9,8 @@ Resources:
       Handler: handler.lambda_handler
       Role: arn:aws:iam::022860393089:role/LabRole
       Code:
-        ZipFile: |
-          def lambda_handler(event, context):
-              return {"statusCode": 200, "body": "placeholder"}
+        S3Bucket: !ImportValue ithemba-services-deployment-name
+        S3Key: lambda.zip
       Environment:
         Variables:
           TABLE_NAME: !ImportValue ithemba-services-table-name
