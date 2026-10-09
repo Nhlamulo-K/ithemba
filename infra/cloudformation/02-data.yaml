@@ -32,6 +32,12 @@ Resources:
         BlockPublicPolicy: true
         IgnorePublicAcls: true
         RestrictPublicBuckets: true
+  DbSubnetGroup:
+    Type: AWS::RDS::DBSubnetGroup
+    Properties:
+      DBSubnetGroupDescription: Private subnet group for RDS
+      SubnetIds:
+        - !ImportValue private-subnet-id
 Outputs:
   TableName:
     Description: Name of the DynamoDB table
