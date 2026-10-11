@@ -1,5 +1,11 @@
 AWSTemplateFormatVersion: "2010-09-09"
 Description: Ithemba - data (DynamoDB, RDS, S3 buckets)
+Parameters:
+  DbPassword:
+    Type: String
+    NoEcho: true
+    Description: Master password for the RDS database
+    MinLength: 8
 Resources:
   ServicesTable:
     Type: AWS::DynamoDB::Table
@@ -38,6 +44,19 @@ Resources:
       DBSubnetGroupDescription: Private subnet group for RDS
       SubnetIds:
         - !ImportValue private-subnet-id
+  InsightsDatabase:
+    Type: AWS::RDS::DBInstance
+    Properties:
+      Engine: postgres
+      DBInstanceClass: db.t3.micro
+      AllocatedStorage: "20"
+      MasterUsername: ithemba
+      MasterUserPassword: !Ref DbPassword
+      DBSubnetGroupName: !Ref DbSubnetGroup
+      VPCSecurityGroups:
+        - !ImportValue Security-group-id
+      PubliclyAccessible: false
+      BackupRetentionPeriod: 0
 Outputs:
   TableName:
     Description: Name of the DynamoDB table
