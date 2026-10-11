@@ -14,3 +14,12 @@ Resources:
       Environment:
         Variables:
           TABLE_NAME: !ImportValue ithemba-services-table-name
+  MaintenanceServer:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t3.micro
+      ImageId: ami-0c2d3e23e757b5d84
+      SubnetId: !ImportValue public-subnet-id
+      SecurityGroupIds:
+        - !ImportValue security-group-id
+      IamInstanceProfile: LabInstanceProfile
