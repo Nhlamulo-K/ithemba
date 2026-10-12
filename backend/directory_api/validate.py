@@ -6,10 +6,6 @@ import sys
 path = Path("../data/directory/services.json")
 entries = json.loads(path.read_text(encoding="utf-8"))
 
-# print(f"{len(entries)} entries loaded")
-# for entry in entries:
-#     print(entry["name"], "-", entry["phone"])
-
 required_fields = ["id", "name", "type", "province", "phone", "source_url", "last_verified"]
 valid_types = ["helpline", "police", "thuthuzela", "shelter", "legal", "clinic"]
 valid_provinces = ["national", "eastern-cape", "free-state", "gauteng", "kwazulu-natal",
@@ -30,9 +26,15 @@ def validate_entries(entries):
         if entry.get("phone") and not phone_numbers.match(entry.get("phone")):
             problems.append(f"{entry.get('id', 'unknown')}: phone '{entry.get("phone")}' has an unexpected format")
         
-        return problems
+    return problems
 
-if __name__ =="__main__":
+if __name__ == "__main__":
+    if sys.stdin.isatty():
+        path = Path("../data/directory/services.json")
+        entries = json.loads(path.read_text(encoding="utf-8"))
+    else:
+        entries = json.loads(sys.stdin.read())
+
     print(f"{len(entries)} entries checked")
 
     problems = validate_entries(entries)
