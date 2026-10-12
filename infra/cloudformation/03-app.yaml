@@ -54,3 +54,7 @@ Resources:
       ApiId: !Ref DirectoryApi
       StageName: $default
       AutoDeploy: true
+Outputs:
+  ApiUrl:
+    Description: Base URL for the directory API
+    Value: !Sub "https://${DirectoryApi}.execute-api.${AWS::Region}.amazonaws.com"
