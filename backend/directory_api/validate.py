@@ -3,9 +3,6 @@ from pathlib import Path
 import re
 import sys
 
-path = Path("../data/directory/services.json")
-entries = json.loads(path.read_text(encoding="utf-8"))
-
 required_fields = ["id", "name", "type", "province", "phone", "source_url", "last_verified"]
 valid_types = ["helpline", "police", "thuthuzela", "shelter", "legal", "clinic"]
 valid_provinces = ["national", "eastern-cape", "free-state", "gauteng", "kwazulu-natal",
