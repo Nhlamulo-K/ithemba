@@ -1,0 +1,325 @@
+province,year,crime_category,reported_count
+eastern-cape,2020,Attempted sexual offences,308
+eastern-cape,2020,Contact sexual offences,111
+eastern-cape,2020,Rape,6099
+eastern-cape,2020,Sexual assault,897
+eastern-cape,2020,Sexual offences,7415
+eastern-cape,2020,Sexual offences detected as a result of police action,35
+eastern-cape,2021,Attempted sexual offences,360
+eastern-cape,2021,Contact sexual offences,129
+eastern-cape,2021,Rape,6854
+eastern-cape,2021,Sexual assault,938
+eastern-cape,2021,Sexual offences,8281
+eastern-cape,2021,Sexual offences detected as a result of police action,26
+eastern-cape,2022,Attempted sexual offences,385
+eastern-cape,2022,Contact sexual offences,118
+eastern-cape,2022,Rape,7117
+eastern-cape,2022,Sexual assault,1003
+eastern-cape,2022,Sexual offences,8623
+eastern-cape,2022,Sexual offences detected as a result of police action,22
+eastern-cape,2023,Attempted sexual offences,439
+eastern-cape,2023,Contact sexual offences,95
+eastern-cape,2023,Rape,6829
+eastern-cape,2023,Sexual assault,855
+eastern-cape,2023,Sexual offences,8218
+eastern-cape,2023,Sexual offences detected as a result of police action,20
+eastern-cape,2024,Attempted sexual offences,462
+eastern-cape,2024,Contact sexual offences,83
+eastern-cape,2024,Rape,6558
+eastern-cape,2024,Sexual assault,849
+eastern-cape,2024,Sexual offences,7952
+eastern-cape,2024,Sexual offences detected as a result of police action,26
+eastern-cape,2025,Attempted sexual offences,331
+eastern-cape,2025,Contact sexual offences,47
+eastern-cape,2025,Rape,4731
+eastern-cape,2025,Sexual assault,581
+eastern-cape,2025,Sexual offences,5690
+eastern-cape,2025,Sexual offences detected as a result of police action,18
+free-state,2020,Attempted sexual offences,138
+free-state,2020,Contact sexual offences,95
+free-state,2020,Rape,2312
+free-state,2020,Sexual assault,523
+free-state,2020,Sexual offences,3068
+free-state,2020,Sexual offences detected as a result of police action,519
+free-state,2021,Attempted sexual offences,147
+free-state,2021,Contact sexual offences,93
+free-state,2021,Rape,2477
+free-state,2021,Sexual assault,534
+free-state,2021,Sexual offences,3251
+free-state,2021,Sexual offences detected as a result of police action,724
+free-state,2022,Attempted sexual offences,160
+free-state,2022,Contact sexual offences,96
+free-state,2022,Rape,2705
+free-state,2022,Sexual assault,508
+free-state,2022,Sexual offences,3469
+free-state,2022,Sexual offences detected as a result of police action,1123
+free-state,2023,Attempted sexual offences,205
+free-state,2023,Contact sexual offences,80
+free-state,2023,Rape,2847
+free-state,2023,Sexual assault,490
+free-state,2023,Sexual offences,3622
+free-state,2023,Sexual offences detected as a result of police action,1571
+free-state,2024,Attempted sexual offences,212
+free-state,2024,Contact sexual offences,88
+free-state,2024,Rape,2885
+free-state,2024,Sexual assault,532
+free-state,2024,Sexual offences,3717
+free-state,2024,Sexual offences detected as a result of police action,1913
+free-state,2025,Attempted sexual offences,143
+free-state,2025,Contact sexual offences,72
+free-state,2025,Rape,2000
+free-state,2025,Sexual assault,333
+free-state,2025,Sexual offences,2548
+free-state,2025,Sexual offences detected as a result of police action,1866
+gauteng,2020,Attempted sexual offences,229
+gauteng,2020,Contact sexual offences,265
+gauteng,2020,Rape,7610
+gauteng,2020,Sexual assault,1738
+gauteng,2020,Sexual offences,9842
+gauteng,2020,Sexual offences detected as a result of police action,747
+gauteng,2021,Attempted sexual offences,251
+gauteng,2021,Contact sexual offences,232
+gauteng,2021,Rape,8480
+gauteng,2021,Sexual assault,1976
+gauteng,2021,Sexual offences,10939
+gauteng,2021,Sexual offences detected as a result of police action,885
+gauteng,2022,Attempted sexual offences,254
+gauteng,2022,Contact sexual offences,190
+gauteng,2022,Rape,8910
+gauteng,2022,Sexual assault,1997
+gauteng,2022,Sexual offences,11351
+gauteng,2022,Sexual offences detected as a result of police action,1411
+gauteng,2023,Attempted sexual offences,314
+gauteng,2023,Contact sexual offences,165
+gauteng,2023,Rape,8615
+gauteng,2023,Sexual assault,1714
+gauteng,2023,Sexual offences,10808
+gauteng,2023,Sexual offences detected as a result of police action,1652
+gauteng,2024,Attempted sexual offences,334
+gauteng,2024,Contact sexual offences,145
+gauteng,2024,Rape,8449
+gauteng,2024,Sexual assault,1720
+gauteng,2024,Sexual offences,10648
+gauteng,2024,Sexual offences detected as a result of police action,1708
+gauteng,2025,Attempted sexual offences,222
+gauteng,2025,Contact sexual offences,122
+gauteng,2025,Rape,5914
+gauteng,2025,Sexual assault,1184
+gauteng,2025,Sexual offences,7442
+gauteng,2025,Sexual offences detected as a result of police action,1114
+kwazulu-natal,2020,Attempted sexual offences,200
+kwazulu-natal,2020,Contact sexual offences,178
+kwazulu-natal,2020,Rape,6869
+kwazulu-natal,2020,Sexual assault,1186
+kwazulu-natal,2020,Sexual offences,8433
+kwazulu-natal,2020,Sexual offences detected as a result of police action,1971
+kwazulu-natal,2021,Attempted sexual offences,195
+kwazulu-natal,2021,Contact sexual offences,156
+kwazulu-natal,2021,Rape,7607
+kwazulu-natal,2021,Sexual assault,1245
+kwazulu-natal,2021,Sexual offences,9203
+kwazulu-natal,2021,Sexual offences detected as a result of police action,2009
+kwazulu-natal,2022,Attempted sexual offences,364
+kwazulu-natal,2022,Contact sexual offences,141
+kwazulu-natal,2022,Rape,8355
+kwazulu-natal,2022,Sexual assault,1219
+kwazulu-natal,2022,Sexual offences,10079
+kwazulu-natal,2022,Sexual offences detected as a result of police action,2709
+kwazulu-natal,2023,Attempted sexual offences,410
+kwazulu-natal,2023,Contact sexual offences,84
+kwazulu-natal,2023,Rape,8276
+kwazulu-natal,2023,Sexual assault,1297
+kwazulu-natal,2023,Sexual offences,10067
+kwazulu-natal,2023,Sexual offences detected as a result of police action,2244
+kwazulu-natal,2024,Attempted sexual offences,473
+kwazulu-natal,2024,Contact sexual offences,98
+kwazulu-natal,2024,Rape,8223
+kwazulu-natal,2024,Sexual assault,1355
+kwazulu-natal,2024,Sexual offences,10149
+kwazulu-natal,2024,Sexual offences detected as a result of police action,2754
+kwazulu-natal,2025,Attempted sexual offences,340
+kwazulu-natal,2025,Contact sexual offences,93
+kwazulu-natal,2025,Rape,5940
+kwazulu-natal,2025,Sexual assault,978
+kwazulu-natal,2025,Sexual offences,7351
+kwazulu-natal,2025,Sexual offences detected as a result of police action,1695
+limpopo,2020,Attempted sexual offences,178
+limpopo,2020,Contact sexual offences,54
+limpopo,2020,Rape,3120
+limpopo,2020,Sexual assault,332
+limpopo,2020,Sexual offences,3684
+limpopo,2020,Sexual offences detected as a result of police action,3294
+limpopo,2021,Attempted sexual offences,207
+limpopo,2021,Contact sexual offences,51
+limpopo,2021,Rape,3564
+limpopo,2021,Sexual assault,424
+limpopo,2021,Sexual offences,4246
+limpopo,2021,Sexual offences detected as a result of police action,2970
+limpopo,2022,Attempted sexual offences,224
+limpopo,2022,Contact sexual offences,47
+limpopo,2022,Rape,3960
+limpopo,2022,Sexual assault,415
+limpopo,2022,Sexual offences,4646
+limpopo,2022,Sexual offences detected as a result of police action,2682
+limpopo,2023,Attempted sexual offences,218
+limpopo,2023,Contact sexual offences,38
+limpopo,2023,Rape,4005
+limpopo,2023,Sexual assault,432
+limpopo,2023,Sexual offences,4693
+limpopo,2023,Sexual offences detected as a result of police action,3430
+limpopo,2024,Attempted sexual offences,256
+limpopo,2024,Contact sexual offences,56
+limpopo,2024,Rape,3950
+limpopo,2024,Sexual assault,423
+limpopo,2024,Sexual offences,4685
+limpopo,2024,Sexual offences detected as a result of police action,4158
+limpopo,2025,Attempted sexual offences,188
+limpopo,2025,Contact sexual offences,44
+limpopo,2025,Rape,2912
+limpopo,2025,Sexual assault,331
+limpopo,2025,Sexual offences,3475
+limpopo,2025,Sexual offences detected as a result of police action,3273
+mpumalanga,2020,Attempted sexual offences,109
+mpumalanga,2020,Contact sexual offences,62
+mpumalanga,2020,Rape,2638
+mpumalanga,2020,Sexual assault,364
+mpumalanga,2020,Sexual offences,3173
+mpumalanga,2020,Sexual offences detected as a result of police action,11
+mpumalanga,2021,Attempted sexual offences,104
+mpumalanga,2021,Contact sexual offences,67
+mpumalanga,2021,Rape,2934
+mpumalanga,2021,Sexual assault,338
+mpumalanga,2021,Sexual offences,3443
+mpumalanga,2021,Sexual offences detected as a result of police action,10
+mpumalanga,2022,Attempted sexual offences,98
+mpumalanga,2022,Contact sexual offences,60
+mpumalanga,2022,Rape,2829
+mpumalanga,2022,Sexual assault,404
+mpumalanga,2022,Sexual offences,3391
+mpumalanga,2022,Sexual offences detected as a result of police action,8
+mpumalanga,2023,Attempted sexual offences,98
+mpumalanga,2023,Contact sexual offences,36
+mpumalanga,2023,Rape,2771
+mpumalanga,2023,Sexual assault,362
+mpumalanga,2023,Sexual offences,3267
+mpumalanga,2023,Sexual offences detected as a result of police action,2
+mpumalanga,2024,Attempted sexual offences,116
+mpumalanga,2024,Contact sexual offences,34
+mpumalanga,2024,Rape,2895
+mpumalanga,2024,Sexual assault,396
+mpumalanga,2024,Sexual offences,3441
+mpumalanga,2024,Sexual offences detected as a result of police action,3
+mpumalanga,2025,Attempted sexual offences,90
+mpumalanga,2025,Contact sexual offences,40
+mpumalanga,2025,Rape,2280
+mpumalanga,2025,Sexual assault,382
+mpumalanga,2025,Sexual offences,2792
+mpumalanga,2025,Sexual offences detected as a result of police action,4
+north-west,2020,Attempted sexual offences,224
+north-west,2020,Contact sexual offences,63
+north-west,2020,Rape,2743
+north-west,2020,Sexual assault,339
+north-west,2020,Sexual offences,3369
+north-west,2020,Sexual offences detected as a result of police action,292
+north-west,2021,Attempted sexual offences,188
+north-west,2021,Contact sexual offences,75
+north-west,2021,Rape,2998
+north-west,2021,Sexual assault,344
+north-west,2021,Sexual offences,3605
+north-west,2021,Sexual offences detected as a result of police action,590
+north-west,2022,Attempted sexual offences,241
+north-west,2022,Contact sexual offences,57
+north-west,2022,Rape,3197
+north-west,2022,Sexual assault,375
+north-west,2022,Sexual offences,3870
+north-west,2022,Sexual offences detected as a result of police action,1149
+north-west,2023,Attempted sexual offences,245
+north-west,2023,Contact sexual offences,45
+north-west,2023,Rape,3324
+north-west,2023,Sexual assault,417
+north-west,2023,Sexual offences,4031
+north-west,2023,Sexual offences detected as a result of police action,1633
+north-west,2024,Attempted sexual offences,232
+north-west,2024,Contact sexual offences,49
+north-west,2024,Rape,3210
+north-west,2024,Sexual assault,380
+north-west,2024,Sexual offences,3871
+north-west,2024,Sexual offences detected as a result of police action,2268
+north-west,2025,Attempted sexual offences,145
+north-west,2025,Contact sexual offences,53
+north-west,2025,Rape,2227
+north-west,2025,Sexual assault,256
+north-west,2025,Sexual offences,2681
+north-west,2025,Sexual offences detected as a result of police action,2096
+northern-cape,2020,Attempted sexual offences,155
+northern-cape,2020,Contact sexual offences,49
+northern-cape,2020,Rape,964
+northern-cape,2020,Sexual assault,201
+northern-cape,2020,Sexual offences,1369
+northern-cape,2020,Sexual offences detected as a result of police action,6
+northern-cape,2021,Attempted sexual offences,97
+northern-cape,2021,Contact sexual offences,48
+northern-cape,2021,Rape,910
+northern-cape,2021,Sexual assault,199
+northern-cape,2021,Sexual offences,1254
+northern-cape,2021,Sexual offences detected as a result of police action,7
+northern-cape,2022,Attempted sexual offences,137
+northern-cape,2022,Contact sexual offences,38
+northern-cape,2022,Rape,1106
+northern-cape,2022,Sexual assault,256
+northern-cape,2022,Sexual offences,1537
+northern-cape,2022,Sexual offences detected as a result of police action,5
+northern-cape,2023,Attempted sexual offences,155
+northern-cape,2023,Contact sexual offences,24
+northern-cape,2023,Rape,1091
+northern-cape,2023,Sexual assault,260
+northern-cape,2023,Sexual offences,1530
+northern-cape,2023,Sexual offences detected as a result of police action,4
+northern-cape,2024,Attempted sexual offences,147
+northern-cape,2024,Contact sexual offences,30
+northern-cape,2024,Rape,1077
+northern-cape,2024,Sexual assault,243
+northern-cape,2024,Sexual offences,1497
+northern-cape,2024,Sexual offences detected as a result of police action,5
+northern-cape,2025,Attempted sexual offences,93
+northern-cape,2025,Contact sexual offences,24
+northern-cape,2025,Rape,774
+northern-cape,2025,Sexual assault,184
+northern-cape,2025,Sexual offences,1075
+northern-cape,2025,Sexual offences detected as a result of police action,3
+western-cape,2020,Attempted sexual offences,303
+western-cape,2020,Contact sexual offences,239
+western-cape,2020,Rape,4495
+western-cape,2020,Sexual assault,1551
+western-cape,2020,Sexual offences,6588
+western-cape,2020,Sexual offences detected as a result of police action,123
+western-cape,2021,Attempted sexual offences,322
+western-cape,2021,Contact sexual offences,238
+western-cape,2021,Rape,4571
+western-cape,2021,Sexual assault,1634
+western-cape,2021,Sexual offences,6765
+western-cape,2021,Sexual offences detected as a result of police action,51
+western-cape,2022,Attempted sexual offences,399
+western-cape,2022,Contact sexual offences,209
+western-cape,2022,Rape,5164
+western-cape,2022,Sexual assault,1744
+western-cape,2022,Sexual offences,7516
+western-cape,2022,Sexual offences detected as a result of police action,35
+western-cape,2023,Attempted sexual offences,421
+western-cape,2023,Contact sexual offences,186
+western-cape,2023,Rape,4733
+western-cape,2023,Sexual assault,1619
+western-cape,2023,Sexual offences,6959
+western-cape,2023,Sexual offences detected as a result of police action,36
+western-cape,2024,Attempted sexual offences,397
+western-cape,2024,Contact sexual offences,212
+western-cape,2024,Rape,4708
+western-cape,2024,Sexual assault,1473
+western-cape,2024,Sexual offences,6790
+western-cape,2024,Sexual offences detected as a result of police action,48
+western-cape,2025,Attempted sexual offences,286
+western-cape,2025,Contact sexual offences,141
+western-cape,2025,Rape,3297
+western-cape,2025,Sexual assault,1091
+western-cape,2025,Sexual offences,4815
+western-cape,2025,Sexual offences detected as a result of police action,42
