@@ -1,0 +1,2012 @@
+{
+  "list": [
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 308
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 111
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 6099
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 897
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 360
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 129
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 6854
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 938
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 385
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 118
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 7117
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 1003
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 439
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 95
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 6829
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 855
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 462
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 83
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 6558
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 849
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 331
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 47
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 4731
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 581
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 138
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 95
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 2312
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 523
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 147
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 93
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 2477
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 534
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 160
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 96
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 2705
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 508
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 205
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 80
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 2847
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 490
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 212
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 88
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 2885
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 532
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 143
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 72
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 2000
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 333
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 229
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 265
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 7610
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 1738
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 251
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 232
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 8480
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 1976
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 254
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 190
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 8910
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 1997
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 314
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 165
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 8615
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 1714
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 334
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 145
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 8449
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 1720
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 222
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 122
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 5914
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 1184
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 200
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 178
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 6869
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 1186
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 195
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 156
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 7607
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 1245
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 364
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 141
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 8355
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 1219
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 410
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 84
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 8276
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 1297
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 473
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 98
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 8223
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 1355
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 340
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 93
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 5940
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 978
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 178
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 54
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 3120
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 332
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 207
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 51
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 3564
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 424
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 224
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 47
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 3960
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 415
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 218
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 38
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 4005
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 432
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 256
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 56
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 3950
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 423
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 188
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 44
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 2912
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 331
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 109
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 62
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 2638
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 364
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 104
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 67
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 2934
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 338
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 98
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 60
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 2829
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 404
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 98
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 36
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 2771
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 362
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 116
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 34
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 2895
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 396
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 90
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 40
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 2280
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 382
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 224
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 63
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 2743
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 339
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 188
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 75
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 2998
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 344
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 241
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 57
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 3197
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 375
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 245
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 45
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 3324
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 417
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 232
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 49
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 3210
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 380
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 145
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 53
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 2227
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 256
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 155
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 49
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 964
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 201
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 97
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 48
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 910
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 199
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 137
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 38
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 1106
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 256
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 155
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 24
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 1091
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 260
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 147
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 30
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 1077
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 243
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 93
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 24
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 774
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 184
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 303
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 239
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Rape",
+      "reported_count": 4495
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Sexual assault",
+      "reported_count": 1551
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 322
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 238
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Rape",
+      "reported_count": 4571
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Sexual assault",
+      "reported_count": 1634
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 399
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 209
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Rape",
+      "reported_count": 5164
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Sexual assault",
+      "reported_count": 1744
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 421
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 186
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Rape",
+      "reported_count": 4733
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Sexual assault",
+      "reported_count": 1619
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 397
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 212
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Rape",
+      "reported_count": 4708
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Sexual assault",
+      "reported_count": 1473
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Attempted sexual offences",
+      "reported_count": 286
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Contact sexual offences",
+      "reported_count": 141
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Rape",
+      "reported_count": 3297
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Sexual assault",
+      "reported_count": 1091
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 7415
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 8281
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 8623
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 8218
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 7952
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 5690
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 3068
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 3251
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 3469
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 3622
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 3717
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 2548
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 9842
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 10939
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 11351
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 10808
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 10648
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 7442
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 8433
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 9203
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 10079
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 10067
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 10149
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 7351
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 3684
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 4246
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 4646
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 4693
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 4685
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 3475
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 3173
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 3443
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 3391
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 3267
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 3441
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 2792
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 3369
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 3605
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 3870
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 4031
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 3871
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 2681
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 1369
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 1254
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 1537
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 1530
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 1497
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 1075
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences",
+      "reported_count": 6588
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences",
+      "reported_count": 6765
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences",
+      "reported_count": 7516
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences",
+      "reported_count": 6959
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences",
+      "reported_count": 6790
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences",
+      "reported_count": 4815
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 35
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 26
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 22
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 20
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 26
+    },
+    {
+      "province": "eastern-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 18
+    },
+    {
+      "province": "free-state",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 519
+    },
+    {
+      "province": "free-state",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 724
+    },
+    {
+      "province": "free-state",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1123
+    },
+    {
+      "province": "free-state",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1571
+    },
+    {
+      "province": "free-state",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1913
+    },
+    {
+      "province": "free-state",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1866
+    },
+    {
+      "province": "gauteng",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 747
+    },
+    {
+      "province": "gauteng",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 885
+    },
+    {
+      "province": "gauteng",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1411
+    },
+    {
+      "province": "gauteng",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1652
+    },
+    {
+      "province": "gauteng",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1708
+    },
+    {
+      "province": "gauteng",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1114
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1971
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2009
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2709
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2244
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2754
+    },
+    {
+      "province": "kwazulu-natal",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1695
+    },
+    {
+      "province": "limpopo",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 3294
+    },
+    {
+      "province": "limpopo",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2970
+    },
+    {
+      "province": "limpopo",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2682
+    },
+    {
+      "province": "limpopo",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 3430
+    },
+    {
+      "province": "limpopo",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 4158
+    },
+    {
+      "province": "limpopo",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 3273
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 11
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 10
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 8
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 3
+    },
+    {
+      "province": "mpumalanga",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 4
+    },
+    {
+      "province": "north-west",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 292
+    },
+    {
+      "province": "north-west",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 590
+    },
+    {
+      "province": "north-west",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1149
+    },
+    {
+      "province": "north-west",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 1633
+    },
+    {
+      "province": "north-west",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2268
+    },
+    {
+      "province": "north-west",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 2096
+    },
+    {
+      "province": "northern-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 6
+    },
+    {
+      "province": "northern-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 7
+    },
+    {
+      "province": "northern-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 5
+    },
+    {
+      "province": "northern-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 4
+    },
+    {
+      "province": "northern-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 5
+    },
+    {
+      "province": "northern-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 3
+    },
+    {
+      "province": "western-cape",
+      "year": 2020,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 123
+    },
+    {
+      "province": "western-cape",
+      "year": 2021,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 51
+    },
+    {
+      "province": "western-cape",
+      "year": 2022,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 35
+    },
+    {
+      "province": "western-cape",
+      "year": 2023,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 36
+    },
+    {
+      "province": "western-cape",
+      "year": 2024,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 48
+    },
+    {
+      "province": "western-cape",
+      "year": 2025,
+      "crime_category": "Sexual offences detected as a result of police action",
+      "reported_count": 42
+    }
+  ],
+  "summary": [
+    {
+      "province": "western-cape",
+      "reported_count": 39433
+    },
+    {
+      "province": "kwazulu-natal",
+      "reported_count": 55282
+    },
+    {
+      "province": "northern-cape",
+      "reported_count": 8262
+    },
+    {
+      "province": "mpumalanga",
+      "reported_count": 19507
+    },
+    {
+      "province": "north-west",
+      "reported_count": 21427
+    },
+    {
+      "province": "gauteng",
+      "reported_count": 61030
+    },
+    {
+      "province": "free-state",
+      "reported_count": 19675
+    },
+    {
+      "province": "limpopo",
+      "reported_count": 25429
+    },
+    {
+      "province": "eastern-cape",
+      "reported_count": 46179
+    }
+  ],
+  "trend": [
+    {
+      "year": 2020,
+      "reported_count": 46941
+    },
+    {
+      "year": 2021,
+      "reported_count": 50987
+    },
+    {
+      "year": 2022,
+      "reported_count": 54482
+    },
+    {
+      "year": 2023,
+      "reported_count": 53195
+    },
+    {
+      "year": 2024,
+      "reported_count": 52750
+    },
+    {
+      "year": 2025,
+      "reported_count": 37869
+    }
+  ]
+}
