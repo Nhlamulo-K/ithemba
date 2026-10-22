@@ -4,4 +4,35 @@ fetch("../data/insights/insights.json")
     })
     .then(function (data) {
         console.log(data)
+        renderTable(data.list, "list-view");
+        renderTable(data.summary, "summary-view");
+        renderTable(data.trend, "trend-view");
     })
+
+function renderTable(data, containerId) {
+    var container = document.getElementById(containerId);
+    var table = document.createElement("table");
+    var keys = Object.keys(data[0]);
+    var headerRow = document.createElement("tr");
+
+    for (var i = 0; i < keys.length; i++) {
+        var th = document.createElement("th");
+        th.textContent = keys[i];
+        headerRow.appendChild(th);
+    }
+
+    table.appendChild(headerRow);
+
+    for (var row = 0; row < data.length; row++) {
+        var bodyRow = document.createElement("tr");
+        var values = Object.values(data[row]);
+        for (var col = 0; col < values.length; col++) {
+            var td = document.createElement("td");
+            td.textContent = values[col];
+            bodyRow.appendChild(td);
+        }
+        table.appendChild(bodyRow);
+    }
+
+    container.appendChild(table)
+}
