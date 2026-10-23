@@ -36,3 +36,27 @@ function renderTable(data, containerId) {
 
     container.appendChild(table)
 }
+
+function showView(viewId) {
+    const views = document.querySelectorAll(".view");
+
+    views.forEach(view => {
+        view.style.display = "none"
+    })
+
+    document.getElementById(viewId).style.display = "block"
+}
+
+const listButton = document.getElementById("list-btn");
+const summaryButton = document.getElementById("summary-btn");
+const trendButton = document.getElementById("trend-btn");
+
+listButton.addEventListener("click", () => {
+    showView("list-view");
+});
+summaryButton.addEventListener("click", () => {
+    showView("summary-view");
+});
+trendButton.addEventListener("click", () => {
+    showView("trend-view");
+});
