@@ -1,1 +1,30 @@
-/* TODO: styles */
+.view{
+    width: 100%;
+    overflow-x: auto;
+    margin-bottom: 32px;
+}
+
+.view table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    text-align: left;
+    background-color: #eee2ed;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+}
+
+.view th {
+  background-color: #c9b9c8;
+  color: #b524c9;
+  font-weight: 600;
+  padding: 14px 16px;
+}
+
+.view td {
+  padding: 14px 16px;
+  border-bottom: 1px solid #e2e8f0;
+  color: #790b8f;
+}
