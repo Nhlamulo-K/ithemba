@@ -47,16 +47,30 @@ function showView(viewId) {
     document.getElementById(viewId).style.display = "block"
 }
 
+function setActiveTab(clicked)  {
+    console.log("setActiveTab called with:", clicked);
+    const tabs = document.querySelectorAll(".tabs button");
+
+    tabs.forEach(tab => {
+        tab.classList.remove("active")
+    })
+
+    clicked.classList.add("active");
+}
+
 const listButton = document.getElementById("list-btn");
 const summaryButton = document.getElementById("summary-btn");
 const trendButton = document.getElementById("trend-btn");
 
 listButton.addEventListener("click", () => {
     showView("list-view");
+    setActiveTab(listButton);
 });
 summaryButton.addEventListener("click", () => {
     showView("summary-view");
+    setActiveTab(summaryButton);
 });
 trendButton.addEventListener("click", () => {
     showView("trend-view");
+    setActiveTab(trendButton);
 });

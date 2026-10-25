@@ -39,3 +39,7 @@
   color: #823a8b;
   padding: 5px 10px;
 }
+
+.tabs button.active{
+  background-color: #c798cf;
+}
