@@ -48,7 +48,6 @@ function showView(viewId) {
 }
 
 function setActiveTab(clicked)  {
-    console.log("setActiveTab called with:", clicked);
     const tabs = document.querySelectorAll(".tabs button");
 
     tabs.forEach(tab => {
