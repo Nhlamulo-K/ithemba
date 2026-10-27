@@ -1,6 +1,6 @@
 # Ithemba
 
-**Find safe help, quietly.** Ithemba is a discreet support finder and awareness dashboard for gender-based violence (GBV) in South Africa.
+**Find safe help, quickly.** Ithemba is a support finder and awareness dashboard for gender-based violence (GBV) in South Africa.
 
 > **Disclaimer:** Ithemba is a personal project. It is not an emergency service and does not replace professional help. Directory information may be out of date; always confirm details with the organisation.
 
