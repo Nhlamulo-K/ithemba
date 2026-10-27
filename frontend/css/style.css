@@ -38,8 +38,43 @@
   cursor: pointer;
   color: #823a8b;
   padding: 5px 10px;
+  margin: 15px 5px;
 }
 
 .tabs button.active{
   background-color: #c798cf;
+}
+
+.insights-page h2 {
+  color: #290231;
+}
+
+nav {
+  margin: 15px;
+}
+
+.insights-page h1 {
+  text-align: center;
+  color: #4a0458;
+}
+
+.index-page h1 {
+  text-align: center;
+  color: #4a0458;
+}
+
+#quick-exit {
+  cursor: pointer;
+  color: #823a8b;
+  padding: 5px 10px;
+  margin: 15px 5px;
+}
+
+#slogan {
+  margin: 5px;
+  color: #40094b;
+}
+
+.index-page p {
+  margin: 10px;
 }
