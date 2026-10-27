@@ -38,15 +38,15 @@
 | Topic | Where it appears in Ithemba |
 |---|---|
 | Cloud computing |
-| Linux and bash |
-| Networking |
+| Linux and bash | Scripts |
+| Networking | infra/Cloudformation/01-network.yaml  |
 | Security |
 | Python programming | Backend |
-| Databases |
+| Databases | infra/cloudformation/02-data.yaml |
 | Tooling and automation |
 | Servers |
-| Serverless |
-| Containers |
+| Serverless | infra/cloudformation/03-app.yaml |
+| Containers | local/dockercompose.yml |
 
 ## Privacy and safety by design
 
