@@ -40,13 +40,13 @@
 | Cloud computing |
 | Linux and bash | Scripts |
 | Networking | infra/Cloudformation/01-network.yaml  |
-| Security |
+| Security | infra/cloudformation/01-network.yaml |
 | Python programming | Backend |
 | Databases | infra/cloudformation/02-data.yaml |
 | Tooling and automation |
-| Servers |
-| Serverless | infra/cloudformation/03-app.yaml |
-| Containers | local/dockercompose.yml |
+| Servers | infra/cloudformation/03-app.yaml |
+| Serverless | backend/handler lambda handler |
+| Containers | local/dockercompose.yml and etl/Dockerfile |
 
 ## Privacy and safety by design
 
