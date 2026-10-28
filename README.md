@@ -37,7 +37,7 @@
 
 | Topic | Where it appears in Ithemba |
 |---|---|
-| Cloud computing |
+| Cloud computing | cloudformation |
 | Linux and bash | Scripts |
 | Networking | infra/Cloudformation/01-network.yaml  |
 | Security | infra/cloudformation/01-network.yaml |
