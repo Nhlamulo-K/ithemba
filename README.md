@@ -41,7 +41,7 @@
 | Linux and bash | Scripts |
 | Networking | infra/Cloudformation/01-network.yaml  |
 | Security | infra/cloudformation/01-network.yaml |
-| Python programming | Backend |
+| Python programming | Backend and data/src |
 | Databases | infra/cloudformation/02-data.yaml |
 | Tooling and automation |
 | Servers | infra/cloudformation/03-app.yaml |
