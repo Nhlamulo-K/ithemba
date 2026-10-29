@@ -53,5 +53,68 @@
         "phone": "0861 322 322",
         "source_url": "https://help.unhcr.org/southafrica/welcome/violence/",
         "last_verified": "2026-09-24"
+    },
+    {
+        "id": "vosloorus-sinakekelwe-tcc",
+        "name": "Vosloorus Sinakekelwe TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Thelle Mogoerane Regional Hospital, 12390 Ext 14, Nguza Street, Vosloorus, 1486",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "tembisa-masakhane-tcc",
+        "name": "Tembisa Masakhane TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Tembisa Hospital, Cnr Flint Mazibuko & Reverend RTJ Ntamane Drive, Tembisa, 1632",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "lenasia-tcc",
+        "name": "Lenasia TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Lenasia South Hospital, 03 Cosmos Street, Lenasia, 1821",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "soweto-nthabiseng-tcc",
+        "name": "Soweto Nthabiseng TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Chris Hani Baragwanath Hospital, Old Potchefstroom Road Diepkloof, 1864",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "kopanong-tcc",
+        "name": "Kopanong TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Kopanong Hospital, No 2 Casino Road, Duncanville, Vereeniging, 1939",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "laudium-tcc",
+        "name": "Laudium TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Laudium Community Health Care, Cnr Bengal & 25th Avenue, Laudium, 0037",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "mamelodi-tcc",
+        "name": "Mamelodi TCC",
+        "type": "thuthuzela",
+        "province": "gauteng",
+        "address": "Mamelodi Day Hospital (Crisis Centre), Serapeng Street & Tsamaya Road, Mamelodi East, 0122",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
     }
 ]
