@@ -116,5 +116,102 @@
         "address": "Mamelodi Day Hospital (Crisis Centre), Serapeng Street & Tsamaya Road, Mamelodi East, 0122",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-10-29"
+    },
+    {
+        "id": "matatiele-tcc",
+        "name": "Matatiele TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Taylor Bequest Hospital, 1 Main Street, Matatiele, 4730",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "bizana-tcc",
+        "name": "Bizana TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "St Patrick’s Hospital, Hope St, Bizana, 4800",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "butterworth-tcc",
+        "name": "Butterworth TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Butterworth Hospital ,Cnr Scanlen &, Geach St, Butterworth, 4960",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "mthatha-sinawe-tcc",
+        "name": "Mthatha Sinawe TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Mthatha General Hospital, 68 Blakeway Rd, Umtata Central, Mthatha, 5100",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "gqeberha-dora-nginza-tcc",
+        "name": "Gqeberha Dora Nginza TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Dora Nginza Hospital, Spondo St, Salt Pan, Gqeberha, 6059",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "lusikisiki-tcc",
+        "name": "Lusikisiki TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "St Elizabeth Hospital, Lusikisiki 1 R61, Main Street, Lusikisiki, 4820",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "mdantsane-tcc",
+        "name": "Mdantsane TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Cecilia Makiwane Hospital, 4 Billie Road, Mdantsane, 5219",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "cradock-tcc",
+        "name": "Cradock TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "Cradock Hospital, 30 Hospitaal street, Cradock, 5880",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "libode-tcc",
+        "name": "Libode TCC",
+        "type": "thuthuzela",
+        "province": "eastern-cape",
+        "address": "St Barnabas Hospital, Nyandeni Region, R 61 on way to Port St. Johns (10km Past Libode), Libode, 5160",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "qonce-tcc",
+        "name": "Qonce TCC",
+        "type": "thuthuzela",
+        "address": "Grey Hospital, 54 Kings Road, Qonce, 5601",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "komani-tcc",
+        "name": "Komani TCC",
+        "type": "thuthuzela",
+        "address": "Frontier Hospital, Corner Kingsway & Livingstone Rd, Queenstown, 5319",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
     }
 ]
