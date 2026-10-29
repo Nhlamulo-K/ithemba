@@ -202,6 +202,7 @@
         "id": "qonce-tcc",
         "name": "Qonce TCC",
         "type": "thuthuzela",
+        "province": "eastern-cape",
         "address": "Grey Hospital, 54 Kings Road, Qonce, 5601",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-10-29"
@@ -210,6 +211,7 @@
         "id": "komani-tcc",
         "name": "Komani TCC",
         "type": "thuthuzela",
+        "province": "eastern-cape",
         "address": "Frontier Hospital, Corner Kingsway & Livingstone Rd, Queenstown, 5319",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-10-29"
