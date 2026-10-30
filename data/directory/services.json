@@ -260,5 +260,15 @@
         "address": "Elizabeth Ross Hospital, 597 Motibang, Mangaung Village, Phuthaditjhaba, 9869",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-10-29"
+    },
+    {
+        "id": "legal-aid-south-africa",
+        "name": "Legal Aid South Africa",
+        "type": "legal",
+        "province": "national",
+        "phone": "0800 110 110",
+        "hours": "Monday-Friday 7am-7pm",
+        "source_url": "https://legal-aid.co.za/2024/03/12/gp-pe-08-03-2024-gauteng-provincial-office-provincial-executive/",
+        "last_verified": "2026-10-30"
     }
 ]
