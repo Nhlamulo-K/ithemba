@@ -215,5 +215,50 @@
         "address": "Frontier Hospital, Corner Kingsway & Livingstone Rd, Queenstown, 5319",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-10-29"
+    },
+    {
+        "id": "sasolburg-tcc",
+        "name": "Sasolburg TCC",
+        "type": "thuthuzela",
+        "province": "free-state",
+        "address": "Metsimaholo District Hospital, 8 Langen hoven Street, Sasolburg, 1948",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "bethlehem-tcc",
+        "name": "Bethlehem TCC",
+        "type": "thuthuzela",
+        "province":"free-state",
+        "address": "Phekolong Hospital, 2117 Riemland Road, Bohlokong, Bethlehem, 9701",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "welkom-tcc",
+        "name": "Welkom TCC",
+        "type": "thuthuzela",
+        "province": "free-state",
+        "address": "Bongani Regional Hospital, Mothusi Road, Thabong, Welkom, 9463",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "bloemfontein-tshepong-tcc",
+        "name": "Bloemfontein Tshepong TCC",
+        "type": "thuthuzela",
+        "province": "free-state",
+        "address": "National District Hospital, Roth Avenue, Willows, Bloemfontein, 9301",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
+    },
+    {
+        "id": "phuthaditjhaba-tcc",
+        "name": "Phuthaditjhaba TCC",
+        "type": "thuthuzela",
+        "province":"free-state",
+        "address": "Elizabeth Ross Hospital, 597 Motibang, Mangaung Village, Phuthaditjhaba, 9869",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-29"
     }
 ]
