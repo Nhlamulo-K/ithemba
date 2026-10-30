@@ -270,5 +270,63 @@
         "hours": "Monday-Friday 7am-7pm",
         "source_url": "https://legal-aid.co.za/2024/03/12/gp-pe-08-03-2024-gauteng-provincial-office-provincial-executive/",
         "last_verified": "2026-10-30"
+    },
+    {
+        "id": "johannesburg-legal-aid",
+        "name": "Johannesburg Legal Aid",
+        "type": "legal",
+        "province": "gauteng",
+        "address": "56 Main Street, Marshalltown, Johannesburg, 2000",
+        "phone": "011 870 1480",
+        "source_url": "https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
+    },
+    {
+        "id": "pretoria-legal-aid",
+        "name": "Pretoria Legal Aid",
+        "type": "legal",
+        "province": "gauteng",
+        "address": "Locarno House, 4th Floor, 317 Francis Baard Street, Pretoria",
+        "phone": "071 084 6750",
+        "source_url":"https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
+    },
+    {
+        "id": "soweto-legal-aid",
+        "name": "Soweto Legal Aid",
+        "type": "legal",
+        "province":"gauteng",
+        "address": "Maponya Mall, Office 403 & 411A, Chris Hani Road, Klipspruit",
+        "phone": "011 938 3547",
+        "source_url":"https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
+    },
+    {
+        "id": "tembisa-legal-aid",
+        "name": "Tembsa Legal Aid",
+        "type": "legal",
+        "province": "gauteng",
+        "address": "Tembisa MegaMart Mall, Shop 42, Botswana Road, Tswelopelo Section, Tembisa",
+        "phone": "011 316 0197",
+        "source_url":"https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
+    },
+    {
+        "id": "vereeniging-legal-aid",
+        "name": "Vereeniging Legal Aid",
+        "type": "legal",
+        "province": "gauteng",
+        "address": "8 Jasmine Mansions, 28 Senator Marks Avenue, Vereeniging, 1938",
+        "source_url":"https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
+    },
+    {
+        "id": "germiston-legal-aid",
+        "name": "Germiston Legal Aid",
+        "type": "legal",
+        "province": "gauteng",
+        "address": "United House, 2nd and 3rd Floor, 175 Meyer Street, corner Meyer and Library",
+        "source_url":"https://evictions.org.za/legal-support-offices as the source_url",
+        "last_verified": "2026-10-30"
     }
 ]
