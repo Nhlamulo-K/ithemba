@@ -10,8 +10,21 @@ fetch("../data/directory/services.json")
     .then(function (entries) {
         var container = document.getElementById("helplines");
         entries.forEach(function (entry) {
-            var item = document.createElement("p");
-            item.textContent = entry.name + " - " + entry.phone;
+            var item = document.createElement("div");
+
+            item.textContent = entry.name
             container.appendChild(item);
+
+            if (entry.phone !== undefined) {
+                const phone = document.createElement("p");
+                phone.textContent = `phone: ${entry.phone}`;
+                container.appendChild(phone);
+            }
+
+            if (entry.address !== undefined) {
+                const address = document.createElement("p");
+                address.textContent = `address: ${entry.address}`;
+                container.appendChild(address);
+            }
         });
     });
