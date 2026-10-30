@@ -3,12 +3,20 @@ document.getElementById("quick-exit").addEventListener("click", function () {
     window.location.replace("https://www.google.com");
 });
 
+let allEntries = [];
+
 fetch("../data/directory/services.json")
     .then(function (response) {
         return response.json();
     })
     .then(function (entries) {
-        var container = document.getElementById("helplines");
+        allEntries = entries;
+        renderServices(entries);
+    });
+
+function renderServices (entries) {
+    var container = document.getElementById("helplines");
+    container.innerHTML = "";
         entries.forEach(function (entry) {
             var item = document.createElement("div");
 
@@ -27,4 +35,4 @@ fetch("../data/directory/services.json")
                 container.appendChild(address);
             }
         });
-    });
+}
