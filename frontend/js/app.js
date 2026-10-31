@@ -44,7 +44,7 @@ provinceFilter.addEventListener("change", () => {
     }
     else {
         const filtered = allEntries.filter(function (entry) {
-            return entry.province === selected || entry.province === "national"
+            return entry.province === selected;
         });
         renderServices(filtered)
     }
