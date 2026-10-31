@@ -262,6 +262,87 @@
         "last_verified": "2026-10-29"
     },
     {
+        "id": "chatsworth-tcc",
+        "name": "Chatsworth TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "RK Khan Hospital, R.K Khan Circle, Westcliffe, 4092",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "ngwelezane-tcc",
+        "name": "Ngwelezane TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Ngwelezane Hospital, Cnr Thanduyise & Ngwelezana Road, Empangeni, 3880",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "umlazi-tcc",
+        "name": "Umlazi TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Prince Mshiyeni Memorial Hospital Ward C4, Off Mangosuthu Highway, Umlazi, 4061",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "ntuzuma-tcc",
+        "name": "Ntuzuma TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Dr Pixley Ka Isaka Seme Memorial Hospital, 310 Bhejane Street, KwaMashu, 4360",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "edendale-tcc",
+        "name": "Edendale TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Edendale Hospital, Moses Mabhida Rd, Plessislaer, Edendale, Pietermaritzburg, 3201",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "port-shepstone-tcc",
+        "name": "Port Shepstone TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Port Shepstone Regional Hospital, Bazley St, Port Shepstone, 4240",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "stander-tcc",
+        "name": "Stanger TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Stanger Regional Hospital, Corner King Shaka St & Patterson Rd,, Stanger, 4450",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "jozini-tcc",
+        "name": "Jozini TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Othobothini Community Healthcare Centre, Msiyane Area, Main Street, Jozini, 3969",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "madadeni-tcc",
+        "name": "Madadeni TCC",
+        "type": "thuthuzela",
+        "province": "kwazulu-natal",
+        "address": "Madadeni Hospital, Section 6, Madadeni, 2951",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
         "id": "legal-aid-south-africa",
         "name": "Legal Aid South Africa",
         "type": "legal",
