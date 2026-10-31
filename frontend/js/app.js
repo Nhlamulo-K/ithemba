@@ -36,3 +36,16 @@ function renderServices (entries) {
             }
         });
 }
+const provinceFilter = document.getElementById("province-filter");
+provinceFilter.addEventListener("change", () => {
+    var selected = provinceFilter.value;
+    if (selected === "all") {
+        renderServices(allEntries);
+    }
+    else {
+        const filtered = allEntries.filter(function (entry) {
+            return entry.province === selected || entry.province === "national"
+        });
+        renderServices(filtered)
+    }
+});
