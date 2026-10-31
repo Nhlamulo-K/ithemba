@@ -343,6 +343,78 @@
         "last_verified": "2026-10-31"
     },
     {
+        "id": "dilokong-tcc",
+        "name": "Dilokong TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Dilokong Hospital, Corner R37 & Modikwa Platinum Road, Driekop, 1129",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "seshego-tcc",
+        "name": "Seshego TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Seshego Hospital, Corner Bookelo & Mandela Street, Zone 1, Seshego, 0742",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "mokopane-tcc",
+        "name": "Mokopane TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Mokopane Hospital, Dudu Madisha View, Mokopane, 0600",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "musina-tcc",
+        "name": "Musina TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Musina Hospital, White Road Street, Musina, 0900",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "giyani-tcc",
+        "name": "Giyani TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Nkhensani Hospital Giyani Parliament & Giyani factory Unit, Next to Giyani TVET Ground Section, Giyani, 0826",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "tshilidzini-tcc",
+        "name": "Tshilidzini TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Tshilidzini Hospital, R 524 Punda Maria Road, Tshisaulu, 0945",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "groblersdal-tcc",
+        "name": "Groblersdal TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Groblersdal Hospital, 18 Voortreker Street, Groblersdal, Limpopo, 0470",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
+        "id": "mankweng-tcc",
+        "name": "Mankweng TCC",
+        "type": "thuthuzela",
+        "province": "limpopo",
+        "address": "Mankweng Hospital, Houtbosdorp Road, Sovenga, 0727",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-10-31"
+    },
+    {
         "id": "legal-aid-south-africa",
         "name": "Legal Aid South Africa",
         "type": "legal",
