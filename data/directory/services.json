@@ -415,6 +415,60 @@
         "last_verified": "2026-10-31"
     },
     {
+        "id": "evander-tcc",
+        "name": "Evander TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Evander Hospital, Corner Bolgna Street & Lausanne Road, Evander, 2280",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "emalahleni-witbank-tcc",
+        "name": "Emalahleni Witbank TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Witbank Provincial Hospital, Mandela Avenue, Witbank, 1035",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "kabokweni-themba-tcc",
+        "name": "Kabokweni Themba TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Themba Hospital, Kabokweni Main Road, Kabokweni, 1245",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "tonga-tcc",
+        "name": "Tonga TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Tonga Hospital, Tonga View, Kwalugedlane Mangweni Road, Tonga, 1341",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "ermelo-tcc",
+        "name": "Ermelo TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Ermelo Hospital, 1 Joubert St, Ermelo, 2350",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "nelspruit-rob-ferreira-tcc",
+        "name": "Nelspruit Rob Ferreira TCC",
+        "type": "thuthuzela",
+        "province": "mpumalanga",
+        "address": "Rob Ferreira Hospital, cnr of Piet Retief Street and Madiba drive, Nelspruit, 1200",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
         "id": "legal-aid-south-africa",
         "name": "Legal Aid South Africa",
         "type": "legal",
