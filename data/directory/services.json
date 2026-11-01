@@ -469,6 +469,51 @@
         "last_verified": "2026-11-01"
     },
     {
+        "id": "upington-tcc",
+        "name": "Upington TCC",
+        "type": "thuthuzela",
+        "province": "northern-cape",
+        "address": "Dr Harry Surtie Hospital, 26 Corner Upington Drive and Turner Street, Upington, 8801",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "galeshewe-tcc",
+        "name": "Galeshewe TCC",
+        "type": "thuthuzela",
+        "province": "northern-cape",
+        "address": "Galeshewe Day Hospital, Tyson Road, Kimberly, 8301",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "kuruman-tcc",
+        "name": "Kuruman TCC",
+        "type":"thuthuzela",
+        "province": "northern-cape",
+        "address": "Kuruman Hospital, N14 Main Road, Kuruman, 8460",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "de-aar-tcc",
+        "name": "De Aar TCC",
+        "type": "thuthuzela",
+        "province": "northern-cape",
+        "address": "Central Karoo Hospital Causality Department, Van Der Merwe Street, De Aar, 7000",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "sprinbok-tcc",
+        "name": "Springbok TCC",
+        "type": "thuthuzela",
+        "province": "northern-cape",
+        "address": "Dr Van Niekerk Hospital HIV/AIDS Counselling Unit, Hospital Road, Springbok, 8240",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
         "id": "legal-aid-south-africa",
         "name": "Legal Aid South Africa",
         "type": "legal",
