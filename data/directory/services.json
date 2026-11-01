@@ -514,6 +514,51 @@
         "last_verified": "2026-11-01"
     },
     {
+        "id": "potchefstroom-tcc",
+        "name": "Potchefstroom TCC",
+        "type": "thuthuzela",
+        "province": "north-west",
+        "address": "Potchefstroom Hospital, Corner Chris Hani & Kruis Streets, Private Bag x938, Potchefstroom, 2531",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "klerksdorp-tcc",
+        "name": "Klerksdorp TCC",
+        "type": "thuthuzela",
+        "province": "north-west",
+        "address": "Tshepong Hospital, Benji-Oliphant Road, Jouberton, Klerksdorp, 2570",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    }
+    {
+        "id": "mahikeng-tcc",
+        "name": "Mahikeng TCC",
+        "type": "thuthuzela",
+        "province": "north-west",
+        "address": "Mafikeng Provincial Hospital, Lichtenberg Road, Mafikeng, 2745",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "taung-tcc",
+        "name": "Taung TCC",
+        "type": "thuthuzela",
+        "province": "north-west",
+        "address": "Taung District Hospital, Magistrate Road, Taung, 8584",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "rustenburg-tcc",
+        "name": "Rustenburg TCC",
+        "type": "thuthuzela",
+        "province": "north-west",
+        "address": "Job Shimankane Tabane Hospital, Corner Heystek & Bosch Streets, Rustenburg, 0299",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
         "id": "legal-aid-south-africa",
         "name": "Legal Aid South Africa",
         "type": "legal",
