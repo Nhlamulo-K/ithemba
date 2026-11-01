@@ -530,7 +530,7 @@
         "address": "Tshepong Hospital, Benji-Oliphant Road, Jouberton, Klerksdorp, 2570",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-11-01"
-    }
+    },
     {
         "id": "mahikeng-tcc",
         "name": "Mahikeng TCC",
@@ -555,6 +555,96 @@
         "type": "thuthuzela",
         "province": "north-west",
         "address": "Job Shimankane Tabane Hospital, Corner Heystek & Bosch Streets, Rustenburg, 0299",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "karl-bremer-bellville-tcc",
+        "name": "Karl Bremer Bellville TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Karl Bremer Hospital, M5 Building, Corner Mike Pienaar and Frans Conradie Boulevard, Bellville, 7530",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "atlantis-tcc",
+        "name": "Atlantis TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Wesfleur Hospital, Wesfleur Circle, Atlantis, Cape Town, 7349",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "george-tcc",
+        "name": "George TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "George Provincial Hospital, Corner of Davidson and Langenhoven Road, Heatherlands, George, 6530",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "heideveld-tcc",
+        "name": "Heideveld TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Heideveld Emergency Centre, Heideveld Road, Heideveld, 7764",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "khayelitsha-tcc",
+        "name": "Khayelitsha TCC",
+        "type":"thuthuzela",
+        "province": "western-cape",
+        "address": "Khayelitsha District Hospital, Corner Walter Sisulu & Steve Biko, Khayelitsha, 7784",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "mitchells-plain-tcc",
+        "name": "Mitchells Plain TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Mitchells Plain Hospital, 8 A Z Berman Drive, Lentegeur, 7785",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "victoria-hospital-wynberg-tcc",
+        "name": "Victoria Hospital Wynberg TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Victoria Hospital, Clinic Forensic Unit, 1 Alphen Rd, Wynberg, 7800",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "paarl-tcc",
+        "name": "Paarl TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Paarl Hospital, Hospital Street, Paarl, 7646",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "stellenbosch-tcc",
+        "name": "Stellenbosch TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Corner Helshoogte & Protea Roads, Idas Valley, Stellenbosch, 7600",
+        "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
+        "last_verified": "2026-11-01"
+    },
+    {
+        "id": "worcester-tcc",
+        "name": "Worcester TCC",
+        "type": "thuthuzela",
+        "province": "western-cape",
+        "address": "Worcester Hospital, Murray Street, Worcester, 6849",
         "source_url": "https://www.justice.gov.za/vg/sxo/2025-TCC-List-NPA-30March2025.pdf",
         "last_verified": "2026-11-01"
     },
