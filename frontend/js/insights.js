@@ -1,9 +1,11 @@
+let allCrimeRows = [];
+
 fetch("../data/insights/insights.json")
     .then(function (response) {
         return response.json();
     })
     .then(function (data) {
-        console.log(data)
+        allCrimeRows = data.list;
         renderTable(data.list, "list-view");
         renderTable(data.summary, "summary-view");
         renderTable(data.trend, "trend-view");
@@ -11,6 +13,7 @@ fetch("../data/insights/insights.json")
 
 function renderTable(data, containerId) {
     var container = document.getElementById(containerId);
+    container.innerHTML = ""
     var table = document.createElement("table");
     var keys = Object.keys(data[0]);
     var headerRow = document.createElement("tr");
@@ -60,6 +63,20 @@ function setActiveTab(clicked)  {
 const listButton = document.getElementById("list-btn");
 const summaryButton = document.getElementById("summary-btn");
 const trendButton = document.getElementById("trend-btn");
+
+const crimeFilter = document.getElementById("crime-filter");
+crimeFilter.addEventListener("change", () => {
+    var selected = crimeFilter.value;
+    if (selected === "all") {
+        renderTable(allCrimeRows, "list-view");
+    }
+    else {
+        const filtered = allCrimeRows.filter(function (data) {
+            return data.crime_category === selected;
+        });
+        renderTable(filtered, "list-view")
+    }
+});
 
 listButton.addEventListener("click", () => {
     showView("list-view");
