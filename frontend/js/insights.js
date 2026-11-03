@@ -42,12 +42,20 @@ function renderTable(data, containerId) {
 
 function showView(viewId) {
     const views = document.querySelectorAll(".view");
+    const crime_category = document.getElementById("crime-filter");
 
     views.forEach(view => {
         view.style.display = "none"
     })
 
     document.getElementById(viewId).style.display = "block"
+
+    if (viewId === "list-view") {
+        crime_category.style.display = "block"
+    }
+    else{
+        crime_category.style.display = "none"
+    }
 }
 
 function setActiveTab(clicked)  {
@@ -90,3 +98,6 @@ trendButton.addEventListener("click", () => {
     showView("trend-view");
     setActiveTab(trendButton);
 });
+
+showView("list-view");
+setActiveTab(listButton);
