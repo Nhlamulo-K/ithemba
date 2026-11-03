@@ -86,6 +86,20 @@ crimeFilter.addEventListener("change", () => {
     }
 });
 
+const provinceCrimeFilter = document.getElementById("province-crime-filter");
+provinceCrimeFilter.addEventListener("change", () => {
+    var selected = provinceCrimeFilter.value;
+    if (selected === "all") {
+        renderTable(allCrimeRows, "list-view");
+    }
+    else {
+        const filtered = allCrimeRows.filter(function (data) {
+            return data.province === selected;
+        });
+        renderTable(filtered, "list-view")
+    }
+});
+
 listButton.addEventListener("click", () => {
     showView("list-view");
     setActiveTab(listButton);
