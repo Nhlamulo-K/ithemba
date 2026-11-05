@@ -71,12 +71,14 @@ function setActiveTab(clicked)  {
 function applyFilters() {
     var selectedCrime = crimeFilter.value;
     var selectedProvince = provinceCrimeFilter.value;
+    var selectedYear = yearFilter.value;
 
     const filtered = allCrimeRows.filter(function (row) {
         const crimeOk = selectedCrime === "all" || selectedCrime === row.crime_category;
         const provinceOk = selectedProvince === "all" || selectedProvince === row.province;
+        const yearOk = selectedYear === "all" || selectedYear === String(row.year);
 
-        return crimeOk && provinceOk;
+        return crimeOk && provinceOk && yearOk;
     });
     renderTable(filtered, "list-view");
 }
@@ -92,6 +94,11 @@ crimeFilter.addEventListener("change", () => {
 
 const provinceCrimeFilter = document.getElementById("province-crime-filter");
 provinceCrimeFilter.addEventListener("change", () => {
+    applyFilters();
+});
+
+const yearFilter = document.getElementById("year-filter");
+yearFilter.addEventListener("change", () => {
     applyFilters();
 });
 
