@@ -68,36 +68,31 @@ function setActiveTab(clicked)  {
     clicked.classList.add("active");
 }
 
+function applyFilters() {
+    var selectedCrime = crimeFilter.value;
+    var selectedProvince = provinceCrimeFilter.value;
+
+    const filtered = allCrimeRows.filter(function (row) {
+        const crimeOk = selectedCrime === "all" || selectedCrime === row.crime_category;
+        const provinceOk = selectedProvince === "all" || selectedProvince === row.province;
+
+        return crimeOk && provinceOk;
+    });
+    renderTable(filtered, "list-view");
+}
+
 const listButton = document.getElementById("list-btn");
 const summaryButton = document.getElementById("summary-btn");
 const trendButton = document.getElementById("trend-btn");
 
 const crimeFilter = document.getElementById("crime-filter");
 crimeFilter.addEventListener("change", () => {
-    var selected = crimeFilter.value;
-    if (selected === "all") {
-        renderTable(allCrimeRows, "list-view");
-    }
-    else {
-        const filtered = allCrimeRows.filter(function (data) {
-            return data.crime_category === selected;
-        });
-        renderTable(filtered, "list-view")
-    }
+    applyFilters();
 });
 
 const provinceCrimeFilter = document.getElementById("province-crime-filter");
 provinceCrimeFilter.addEventListener("change", () => {
-    var selected = provinceCrimeFilter.value;
-    if (selected === "all") {
-        renderTable(allCrimeRows, "list-view");
-    }
-    else {
-        const filtered = allCrimeRows.filter(function (data) {
-            return data.province === selected;
-        });
-        renderTable(filtered, "list-view")
-    }
+    applyFilters();
 });
 
 listButton.addEventListener("click", () => {
