@@ -78,3 +78,15 @@ nav {
 .index-page p {
   margin: 10px;
 }
+
+#province-crime-filter {
+  margin: 5px;
+}
+
+#crime-filter {
+  margin: 5px;
+}
+
+#year-filter {
+  margin: 5px;
+}
