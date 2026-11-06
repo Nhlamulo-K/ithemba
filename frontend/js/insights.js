@@ -43,18 +43,24 @@ function renderTable(data, containerId) {
 function showView(viewId) {
     const views = document.querySelectorAll(".view");
     const crime_category = document.getElementById("crime-filter");
+    const province = document.getElementById("province-crime-filter");
+    const year = document.getElementById("year-filter");
 
     views.forEach(view => {
-        view.style.display = "none"
+        view.style.display = "none";
     })
 
     document.getElementById(viewId).style.display = "block"
 
     if (viewId === "list-view") {
-        crime_category.style.display = "block"
+        crime_category.style.display = "block";
+        province.style.display = "block";
+        year.style.display = "block";
     }
     else{
-        crime_category.style.display = "none"
+        crime_category.style.display = "none";
+        province.style.display = "none";
+        year.style.display = "none";
     }
 }
 
@@ -62,7 +68,7 @@ function setActiveTab(clicked)  {
     const tabs = document.querySelectorAll(".tabs button");
 
     tabs.forEach(tab => {
-        tab.classList.remove("active")
+        tab.classList.remove("active");
     })
 
     clicked.classList.add("active");
