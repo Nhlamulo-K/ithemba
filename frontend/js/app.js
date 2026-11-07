@@ -18,24 +18,30 @@ function renderServices (entries) {
     var container = document.getElementById("helplines");
     container.innerHTML = "";
         entries.forEach(function (entry) {
+            var service = document.createElement("div");
+            service.className = "service";
+
             var item = document.createElement("div");
 
             item.textContent = entry.name
-            container.appendChild(item);
+            service.appendChild(item);
 
             if (entry.phone !== undefined) {
                 const phone = document.createElement("p");
                 phone.textContent = `phone: ${entry.phone}`;
-                container.appendChild(phone);
+                service.appendChild(phone);
             }
 
             if (entry.address !== undefined) {
                 const address = document.createElement("p");
                 address.textContent = `address: ${entry.address}`;
-                container.appendChild(address);
+                service.appendChild(address);
             }
+
+            container.appendChild(service);
         });
 }
+
 const provinceFilter = document.getElementById("province-filter");
 provinceFilter.addEventListener("change", () => {
     var selected = provinceFilter.value;
